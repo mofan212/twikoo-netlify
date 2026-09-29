@@ -1,5 +1,8 @@
 {
   "dependencies": {
-    "twikoo-netlify": "1.7.13"
+    "twikoo-netlify": "1.7.24"
+  },
+  "overrides": {
+    "twikoo-vercel": "1.7.24"
   }
 }
